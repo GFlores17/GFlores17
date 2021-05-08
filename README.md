@@ -1,9 +1,10 @@
+
 ### Howdy! 🤠 My name is George Flores.
 
 My current project is to recreate my last passion project (tournament managing software) as a mobile app using Dart/Android Studio (as opposed to the C++ based Desktop version I created prior).
 
-(GIF of Desktop app)
-https://user-images.githubusercontent.com/34392518/117534030-8d985480-afa4-11eb-9c34-c9c4f0ad23b0.mp4
+![GIF of Desktop App using QT Framework](https://user-images.githubusercontent.com/34392518/117534117-f2ec4580-afa4-11eb-807c-27548b5d505b.gif)
+
 
 
 <!--
