@@ -1,7 +1,7 @@
 
 ### Howdy! 🤠 My name is George Flores.
 
-My current project is to recreate my last passion project (tournament managing software) as a mobile app using Dart/Android Studio (as opposed to the C++ based Desktop version I created prior).
+My current goal is to recreate my last passion project (tournament managing software) as a mobile app using Dart/Android Studio (as opposed to the C++ based Desktop version I created prior).
 
 NOTE: "Jackbox Tournament Manager" has no affiliation with Jackbox Games. I just wanted a way to track tournaments my friends and I would host last summer during the 1st half of quarantine.
 
