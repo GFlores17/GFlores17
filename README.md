@@ -6,7 +6,7 @@ My current goal is to recreate my last passion project (tournament managing soft
 NOTE: "Jackbox Tournament Manager" has no affiliation with Jackbox Games. I just wanted a way to track tournaments my friends and I would host last summer during the 1st half of quarantine.
 
 <p align="center">
-[GIF of Desktop App using QT Framework](https://user-images.githubusercontent.com/34392518/117534117-f2ec4580-afa4-11eb-807c-27548b5d505b.gif)
+![GIF of Desktop App using QT Framework](https://user-images.githubusercontent.com/34392518/117534117-f2ec4580-afa4-11eb-807c-27548b5d505b.gif)
 </p>
 
 
