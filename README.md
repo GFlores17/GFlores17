@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy! My name is George Flores.
+
+My current project is to recreate my passion project (tournament managing software) as a mobile app using Dart/Android Studio (as opposed to the C++ based Desktop version I created prior).
 
 <!--
 **GFlores17/GFlores17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
