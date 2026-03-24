@@ -2,7 +2,7 @@
 
 Support-focused developer with a background in API integrations, observability, and production troubleshooting. I build and maintain full-stack applications and document everything along the way.
 
-📍 Los Angeles, CA · [LinkedIn](https://linkedin.com/in/mvsflores) · [Tech Writing Portfolio](https://emperorstudios.net)
+📍 Los Angeles, CA · [LinkedIn](https://linkedin.com/in/mvsflores)
 
 ---
 
